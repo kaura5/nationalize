@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nationalize/static/css/main.e6c13ad2.css",
+    "main.js": "/nationalize/static/js/main.f3bdcbed.js",
+    "static/js/787.fc38b84a.chunk.js": "/nationalize/static/js/787.fc38b84a.chunk.js",
+    "index.html": "/nationalize/index.html",
+    "main.e6c13ad2.css.map": "/nationalize/static/css/main.e6c13ad2.css.map",
+    "main.f3bdcbed.js.map": "/nationalize/static/js/main.f3bdcbed.js.map",
+    "787.fc38b84a.chunk.js.map": "/nationalize/static/js/787.fc38b84a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f3bdcbed.js"
+  ]
+}
